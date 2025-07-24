@@ -18,10 +18,6 @@
 - 🧠 Artificial Intelligence
 - 💡 Algorithmic Problem Solving
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Swastik-Jain&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Jain&layout=compact&theme=radical)
 
 ## 🔥 Current Focus
 - Building ML/DL projects that solve real-world problems
