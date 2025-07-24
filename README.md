@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 I'm Swastik Jain
 
-<!--
-**Swastik-Jain/Swastik-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 **Third-year CSE Student** at Madhav Institute of Science and Technology, Gwalior  
+💻 **Passionate about:** Machine Learning, Deep Learning & Competitive Programming  
+🌱 **Currently exploring:** AI applications and advanced algorithms  
+📍 **Location:** Madhya Pradesh, India  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Specializations:**  
+- 🤖 Machine Learning & Deep Learning
+- 📊 Data Structures & Algorithms with C++
+- 🐍 Python Development
+- 🧠 Artificial Intelligence
+- 💡 Algorithmic Problem Solving
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Swastik-Jain&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Jain&layout=compact&theme=radical)
+
+## 🔥 Current Focus
+- Building ML/DL projects that solve real-world problems
+- Enhancing algorithmic problem-solving skills
+- Contributing to open-source communities
+- Learning cutting-edge AI technologies
+
+## 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-jain-77599b332)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swastikjain32@gmail.com)
+
+---
+⭐ **"Code is like humor. When you have to explain it, it's bad."** – Cory House
